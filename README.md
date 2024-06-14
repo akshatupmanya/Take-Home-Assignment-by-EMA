@@ -1,3 +1,6 @@
+**Important note.**
+I just created a simple pipeline and Working Collab code, which can be integrated in a structured code, as I have semester exams ongoing... Just go through the collab file and press Ctrl+f9...
+
 **Collab File - https://colab.research.google.com/drive/1VS0E1wXq1FWLMCOpd6RaHNLpw6pDAkNm?authuser=1#scrollTo=3VKI6jVJtueg**
 I made a RAG based project, where I tried to solve your assignment, I took these steps:
 
